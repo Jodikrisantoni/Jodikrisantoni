@@ -37,12 +37,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jodikrisantoni&theme=highcontrast" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&hide=html&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5">
 </div>
 
-  
-</div>
-
-
+<br/>
+<a href="https://git.io/typing-svg" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thankyou+for+Visiting" alt="Typing SVG" />
+</a>
 
 
 <!--
