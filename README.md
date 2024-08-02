@@ -36,7 +36,7 @@
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jodikrisantoni&theme=highcontrast" alt="GitHub Streak">
-  <img src="https://github-readme-stats.jodikrisantoni.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical">
 </div>
 
   
