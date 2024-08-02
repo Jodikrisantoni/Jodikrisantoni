@@ -19,7 +19,6 @@
   </a>
 </div>
 
-<hr>
 <br/>
 <h2 align="center"> 🔭Languages and Tools🔭</h2>
 <br>
@@ -30,6 +29,7 @@
   </a>
 
 </div>
+
 <br/>
 
 <h2 align="center">⚡ stats ⚡</h2>
