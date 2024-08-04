@@ -1,7 +1,7 @@
 <h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
 <p>A Passionate Front-end developer✨ who love learning and always do productive think.</p>
-<p>what i leaning now **Reactjs, and React Native** </p>
+<p>what i leaning now <u>Reactjs, and React Native</u> </p>
 <p><u>productive everyday step by step to still alive</u></p>
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
