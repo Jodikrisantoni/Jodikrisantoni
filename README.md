@@ -2,9 +2,9 @@
 
 A Passionate Front-end developer✨ who love learning and always do productive think.
 
-what i leaning now <b>Reactjs, and React Native</b>
+what i learning now <b>Reactjs, and React Native</b>
 
-<p><u>productive everyday step by step to still alive</u></p>
+<p style="text-decoration:underlined" >productive everyday step by step to still alive</p>
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
 <div align="left">
