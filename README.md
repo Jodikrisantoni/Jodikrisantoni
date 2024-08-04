@@ -1,7 +1,6 @@
 <h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
-A Passionate Front-end developer✨ who love learning and always do productive think.
-
+A Passionate Front-end developer✨ who love learning and always do productive think, the main language i use its javascript.
 what i learning now <b>Reactjs, and React Native</b>
 
 <p style="text-decoration:underlined" >productive everyday step by step to still alive</p>
