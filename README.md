@@ -1,13 +1,19 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%2C+I'm+Jodi+Krisantoni+" alt="Typing SVG" />
-  </a>
-</h1>
+<h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
-<h3 align="center"> A Passionate Front-end✨ Developer From Indonesia </h3>
+<p>A Passionate Front-end developer✨ who love learning and always do productive think.</p>
+<p>what i leaning now <b>Reactjs, and React Native</b></p>
+<p><u>productive everyday step by step to still alive</u></p>
+
+<h4 align="left"> 🔭Languages and Tools🔭</h4>
 <br>
-
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
+  </a>
+
+</div>
+<div align="left">
   <a href="mailto: jody201542@gmail.com" target="_blank"> 
     <img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -17,17 +23,6 @@
   <a href="https://github.com/Jodikrisantoni" target="_blank">
     <img src=	"https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<br/>
-<h2 align="center"> 🔭Languages and Tools🔭</h2>
-<br>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
-  </a>
-
 </div>
 
 <br/>
