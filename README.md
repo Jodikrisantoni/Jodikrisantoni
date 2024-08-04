@@ -6,7 +6,7 @@
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
