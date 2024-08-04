@@ -8,14 +8,14 @@
 <br>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css"/><br>
+    <img width="26px" src="https://skillicons.dev/icons?i=js,html,css"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
   </a>
 
 </div>
 <div align="left">
   <a href="mailto: jody201542@gmail.com" target="_blank"> 
-    <img width="26px" src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jody_krisantoni?" target="_blank">
     <img src=	"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
