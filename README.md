@@ -12,8 +12,8 @@ what i learning now <b>Reactjs, and React Native</b>
     <img width="85px" src="https://skillicons.dev/icons?i=js,html,css"/><br>
     <img width="115px" src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
   </a>
-
 </div>
+
 <div align="left">
   <a href="mailto: jody201542@gmail.com" target="_blank"> 
     <img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,10 +28,10 @@ what i learning now <b>Reactjs, and React Native</b>
 
 <br/>
 
-<h3 align="left">⚡ stats ⚡</h3>
+<h3 align="left">Stats⚡</h3>
 <p display="inline-box">
   <img width="390px" src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical">
-  <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
 </p>
 
 <br/>
