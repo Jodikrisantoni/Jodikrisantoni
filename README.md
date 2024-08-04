@@ -29,9 +29,9 @@
 
 <h2 align="center">⚡ stats ⚡</h2>
 <br>
-<div align="center">
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical"> <br>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
+<div align="left">
+  <img width=180em src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical"> <br>
+  <img width=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
 </div>
 
 <br/>
