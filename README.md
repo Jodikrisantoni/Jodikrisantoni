@@ -1,7 +1,7 @@
 <h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
-<p>A Passionate Front-end developer✨ who love learning and always do productive think.</p>
-<p>what i leaning now <b>Reactjs, and React Native</b> </p>
+A Passionate Front-end developer✨ who love learning and always do productive think.
+what i leaning now <b>Reactjs, and React Native</b>
 <p><u>productive everyday step by step to still alive</u></p>
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
@@ -29,8 +29,8 @@
 
 <h3 align="left">⚡ stats ⚡</h3>
 <p display="inline">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical"> <br>
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
+  <img width="80px" src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical"> <br>
+  <img width="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
 </p>
 
 <br/>
