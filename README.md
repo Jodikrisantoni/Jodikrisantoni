@@ -1,7 +1,7 @@
 <h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
 <p>A Passionate Front-end developer✨ who love learning and always do productive think.</p>
-<p>what i leaning now <u>Reactjs, and React Native</u> </p>
+<p>what i leaning now <b>Reactjs, and React Native</b> </p>
 <p><u>productive everyday step by step to still alive</u></p>
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
@@ -15,7 +15,7 @@
 </div>
 <div align="left">
   <a href="mailto: jody201542@gmail.com" target="_blank"> 
-    <img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img width="26px" src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jody_krisantoni?" target="_blank">
     <img src=	"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
