@@ -1,11 +1,12 @@
 <h4 align="left"> Hi, Im Jodi Kris Antoni👋 </h4>
 
 A Passionate Front-end developer✨ who love learning and always do productive think.
+
 what i leaning now <b>Reactjs, and React Native</b>
+
 <p><u>productive everyday step by step to still alive</u></p>
 
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
-<br>
 <div align="left">
   <a href="https://skillicons.dev">
     <img width="85px" src="https://skillicons.dev/icons?i=js,html,css"/><br>
@@ -29,7 +30,7 @@ what i leaning now <b>Reactjs, and React Native</b>
 
 <h3 align="left">⚡ stats ⚡</h3>
 <p display="inline-box">
-  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical">
+  <img width="390px" src="https://github-readme-stats.vercel.app/api?username=jodikrisantoni&show_icons=true&theme=radical">
   <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodikrisantoni&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical">
 </p>
 
