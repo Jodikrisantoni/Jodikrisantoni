@@ -9,7 +9,7 @@ what i learning now... <b>Reactjs, and React Native</b>
 <h4 align="left"> 🔭Languages and Tools🔭</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img width="85px" src="https://skillicons.dev/icons?i=js,html,css"/><br>
+    <img width="85px" src="https://skillicons.dev/icons?i=js,react,html,css"/><br>
     <img width="115px" src="https://skillicons.dev/icons?i=vscode,figma,git,bootstrap"/>
   </a>
 </div>
